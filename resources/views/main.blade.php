@@ -136,7 +136,7 @@
                   </li>
                   <li class="relative group">
                     <a
-                      href="/#pricing"
+                      href="#pricing"
                       class="
                         ud-menu-scroll
                         text-base text-dark
