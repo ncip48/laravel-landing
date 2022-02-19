@@ -260,7 +260,7 @@
                         About Page
                       </a>
                       <a
-                        href="pricing.html"
+                        href="/pricing"
                         class="
                           block
                           text-sm text-body-color
@@ -273,7 +273,7 @@
                         Pricing Page
                       </a>
                       <a
-                        href="contact.html"
+                        href="/contact"
                         class="
                           block
                           text-sm text-body-color
@@ -286,7 +286,7 @@
                         Contact Page
                       </a>
                       <a
-                        href="blog-grids.html"
+                        href="/blog-grids"
                         class="
                           block
                           text-sm text-body-color
@@ -299,7 +299,7 @@
                         Blog Grid Page
                       </a>
                       <a
-                        href="blog-details.html"
+                        href="/blog-details"
                         class="
                           block
                           text-sm text-body-color
@@ -338,7 +338,7 @@
                         Sign In Page
                       </a>
                       <a
-                        href="404.html"
+                        href="/not-found"
                         class="
                           block
                           text-sm text-body-color
