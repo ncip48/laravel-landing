@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    return view('about');
+    return view('frontend.content.about');
 });
 
 Route::get('/signin', function () {
